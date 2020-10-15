@@ -4,7 +4,7 @@ author: Shreyansh Shivam
 email: shreyanshs.2019@mitb.smu.edu.sg
 phone: +6588914507
 github: https://github.com/shreyanshshivam
-about: Data Science Enthusiast, with over 5 years of diverse experience in Dubai/Abu Dhabi and Singapore
+about: Data Science Enthusiast,with Masters Degree in Business Analytics from SMU, Singapore. I have over 5 years of diverse work experience in Dubai/Abu Dhabi and Singapore
 disqus_shortname: programming
 #google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
@@ -38,10 +38,10 @@ urls:
       url: /about/
     - text: Projects
       url: /projects/
-    - text: Blogs
-      url: /blogs/
-    - text: XML Feed
+    - text: Certifications
       url: /feed.xml
+   # - text: Blogs
+      #url: /blogs/
 # url: "http://localhost:4000"
 url: "https://shreyanshshivam.github.io/shreyansh/"
 baseurl: "https://shreyanshshivam.github.io/shreyansh/"
