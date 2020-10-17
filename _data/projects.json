@@ -9,7 +9,7 @@
 		"tags": ["Python", "NetworkX", "Community Detection","Bike Sharing"]
 	},
 	{
-		"name": "Sentiment Analysis of Work From Home Tweets using NLP",
+		"name": "Sentiment Analysis of Work From Home Tweets",
 		"image": "easy-links.jpg",
 		"date": "Jun 2020",
 		"url":"https://github.com/shreyanshshivam/Work_From_Home_Satisfaction_Analysis_Using-NLP",
@@ -17,11 +17,11 @@
 		"tags": ["Python","LDA-Topic Modelling", "Sentiment Analysis", "Web Scrapping"]
 	},
 	{
-		"name": "Live Band Club",
+		"name": "Library Survey Analysis using R-Shiny",
 		"image": "livebandclub.png",
-		"url": "http://livebandclub.com",
-		"date": "June 2016",
-		"tags": ["HTML","Javascript","PHP"]
+		"url": "https://shreyanshshivam09.shinyapps.io/visual_proj_rev_3/",
+		"date": "Apr 2020",
+		"tags": ["R","R-Shiny","Plotly"]
 	},
 	{
 		"name": "Pavement Preservation Treatment Database",
