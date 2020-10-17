@@ -1,11 +1,11 @@
 [
 	{
-		"slug": "etrucking-soft",
-		"name": "Etrucking Software",
+		"slug": "Network Analysis of Bike Sharing Data",
+		"name": "Network Analysis of Bike Sharing Data",
 		"image": "etruckingsoft.png",
-		"url": "http://etruckingsoft.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
+		"url": "https://github.com/shreyanshshivam/Network-Analysis-Bike-Sharing-network",
+		"date": " Mar 2020",
+		"tags": ["Python", "R", "NetworkX", "Community Detection","Bike Sharing"]
 	},
 	{
 		"name": "Easy Links",
