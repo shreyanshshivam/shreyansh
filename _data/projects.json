@@ -5,14 +5,16 @@
 		"image": "etruckingsoft.png",
 		"url": "https://github.com/shreyanshshivam/Network-Analysis-Bike-Sharing-network",
 		"date": " Mar 2020",
-		"tags": ["Python", "R", "NetworkX", "Community Detection","Bike Sharing"]
+		"description": "Used Network Analysis to come up with Operational insights for a Bike Sharing Company",
+		"tags": ["Python", "NetworkX", "Community Detection","Bike Sharing"]
 	},
 	{
-		"name": "Easy Links",
+		"name": "Sentiment Analysis of Work From Home Tweets using NLP",
 		"image": "easy-links.jpg",
-		"date": "May 2017",
-		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
-		"tags": ["Extension","Javascript"]
+		"date": "Jun 2020",
+		"url":"https://github.com/shreyanshshivam/Work_From_Home_Satisfaction_Analysis_Using-NLP",
+		"description": "Scrapped tweets related to Work From Home from Twitter and Analysed the Sentiments using NLP",
+		"tags": ["Python","LDA-Topic Modelling", "Sentiment Analysis", "Web Scrapping"]
 	},
 	{
 		"name": "Live Band Club",
