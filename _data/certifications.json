@@ -1,12 +1,11 @@
 [
 	{
-		"slug": "Network Analysis of Bike Sharing Data",
-		"name": "Network Analysis of Bike Sharing Data",
+		"slug": "Advance Google Analytics",
+		"name": "Advance Google Analytics",
 		"image": "etruckingsoft.png",
-		"url": "https://github.com/shreyanshshivam/Network-Analysis-Bike-Sharing-network",
-		"date": " Mar 2020",
-		"description": "Used Network Analysis to come up with Operational insights for a Bike Sharing Company",
-		"tags": ["Python", "NetworkX", "Community Detection","Bike Sharing"]
+		"url": "https://analytics.google.com/analytics/academy/certificate/zuhH6jEbQKSEF3os3pkqOg",
+		"date": " Sep 2020",
+		"tags": ["Google Analytics", "Marketting Analytics"]
 	},
 	{
 		"name": "Sentiment Analysis of Work From Home Tweets",
