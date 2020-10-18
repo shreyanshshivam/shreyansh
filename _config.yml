@@ -39,7 +39,7 @@ urls:
     - text: Projects
       url: /projects/
     - text: Certifications
-      url: /feed.xml
+      url: /certifications/
    # - text: Blogs
       #url: /blogs/
 # url: "http://localhost:4000"
