@@ -1,0 +1,33 @@
+[
+	{
+		"slug": "Network Analysis of Bike Sharing Data",
+		"name": "Network Analysis of Bike Sharing Data",
+		"image": "etruckingsoft.png",
+		"url": "https://github.com/shreyanshshivam/Network-Analysis-Bike-Sharing-network",
+		"date": " Mar 2020",
+		"description": "Used Network Analysis to come up with Operational insights for a Bike Sharing Company",
+		"tags": ["Python", "NetworkX", "Community Detection","Bike Sharing"]
+	},
+	{
+		"name": "Sentiment Analysis of Work From Home Tweets",
+		"image": "easy-links.jpg",
+		"date": "Jun 2020",
+		"url":"https://github.com/shreyanshshivam/Work_From_Home_Satisfaction_Analysis_Using-NLP",
+		"description": "Scrapped tweets related to Work From Home from Twitter and Analysed the Sentiments using NLP",
+		"tags": ["Python","LDA-Topic Modelling", "Sentiment Analysis", "Web Scrapping"]
+	},
+	{
+		"name": "Library Survey Analysis using R-Shiny",
+		"image": "livebandclub.png",
+		"url": "https://shreyanshshivam09.shinyapps.io/visual_proj_rev_3/",
+		"date": "Apr 2020",
+		"tags": ["R","R-Shiny","Plotly"]
+	},
+	{
+		"name": "Demographic structure of Singapore population",
+		"image": "pp_logo.png",
+		"date": "Dec 2019",
+		"url": "https://rpubs.com/Shreyansh_Shivam/584293",
+		"tags": ["R","Plotly"]
+	}
+]
