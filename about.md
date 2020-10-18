@@ -10,4 +10,5 @@ I am currently a Data Analyst at <a href="https://www.burpple.com/sg" target="_b
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://drive.google.com/file/d/1L5dbI24kn_rOi3KJPXR5BKTGhDLJB_s_/view?usp=sharing" width="100%" height="900"></iframe>
+![alt text](https://github.com/shreyanshshivam/shreyansh/blob/gh-pages/static/img/SMU%20Shreyansh%20Shivam.pdfraw=true)
+<!--iframe src="https://drive.google.com/file/d/1L5dbI24kn_rOi3KJPXR5BKTGhDLJB_s_/view?usp=sharing" width="100%" height="900"></iframe>
