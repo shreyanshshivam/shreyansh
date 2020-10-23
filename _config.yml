@@ -43,8 +43,8 @@ urls:
    # - text: Blogs
       #url: /blogs/
 # url: "http://localhost:4000"
-url: "https://shreyanshshivam.github.io/shreyansh/"
-baseurl: "https://shreyanshshivam.github.io/shreyansh/"
+url: "https://shreyanshshivam.github.io/shreyansh"
+baseurl: "https://shreyanshshivam.github.io/shreyansh"
 paginate: 20
 per_page: 20
 paginate_path: "/blogs/page/:num/"
