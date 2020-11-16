@@ -9,6 +9,5 @@ I am currently a Data Analyst at <a href="https://www.burpple.com/sg" target="_b
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
-## Resume
-<iframe src="/static/img/SMU Shreyansh Shivam.pdf" width="100%" height="900"></iframe>
+
 
